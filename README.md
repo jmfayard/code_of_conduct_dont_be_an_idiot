@@ -13,6 +13,6 @@ Use this Code of Conduct as you like in your own projects and organizations.
 
 ## Q & A
 
-Q: What About Breathing?
+Q: What about breathing?
 
 A: The behavior must be exclusive, or statistically correlated, to idiocy.
