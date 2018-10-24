@@ -1,5 +1,4 @@
 # Code of Conduct
-## Don't Be An Idiot
 
 Before you post or commit, ask yourself "Would an idiot do that?". And if the answer is "yes", do not do that thing. 
 
