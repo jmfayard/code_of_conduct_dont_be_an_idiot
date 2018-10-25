@@ -15,4 +15,4 @@ Use this Code of Conduct as you like in your own projects and organizations.
 
 Q: What about breathing?
 
-A: The behavior must be exclusive, or statistically correlated, to idiocy.
+A: The behavior must be exclusive to idiocy.
